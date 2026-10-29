@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "kaue-portifolio"
-  }
+    "default": "portifolio-kaue"
+  },
+  "targets": {},
+  "etags": {}
 }
